@@ -1,0 +1,12 @@
+.MainPage {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    width: 40%;
+    height: 20%;
+    border-radius: 20px;
+    min-height: 200px;
+    max-width: 375px;
+}

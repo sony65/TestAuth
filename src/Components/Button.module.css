@@ -1,0 +1,16 @@
+.Button {
+    border: 1px solid grey;
+    background: lightgray;
+    margin-top: 15px;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+
+.Button[disabled] {
+    border: 1px solid grey;
+    background: rgb(247, 247, 247);
+    color: grey;
+    margin-top: 15px;
+    border-radius: 5px;
+    padding: 5px 10px;
+}

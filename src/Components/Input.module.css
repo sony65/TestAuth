@@ -1,0 +1,19 @@
+.Container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.Label {
+    width: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 10px;
+}
+
+.Input {
+    border: none;
+    width: 70%;
+    padding: 10px;
+}
